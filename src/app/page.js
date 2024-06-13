@@ -1,7 +1,7 @@
 "use client"
 import Image from "next/image";
 
-const yaa = process.env.YES_OR
+const yaa = process.env.NEXT_PUBLIC_YES_OR
 
 export default function Home() {
   return (
